@@ -4,6 +4,8 @@
 
 【简单】[643. 子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/)
 
+【简单】[1176. 健身计划评估](https://leetcode.cn/problems/diet-plan-performance/)
+
 ## 2. 双指针
 
 
