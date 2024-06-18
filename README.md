@@ -1,46 +1,50 @@
 # leetcode刷题
 
-## 1. 滑动窗口
+## 数组/字符串
+
+## 双指针
+
+## 滑动窗口
 
 【简单】[643. 子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/)
 
 【简单】[1176. 健身计划评估](https://leetcode.cn/problems/diet-plan-performance/)
 
-## 2. 双指针
+## 前缀和
+【简单】[1732. 找到最高海拔](https://leetcode.cn/problems/find-the-highest-altitude/description/)
 
+## 快慢指针
 
-## 3. 快慢指针
+## 区间合并
 
-## 4. 区间合并
+## 循环排序
 
-## 5. 循环排序
+## 链表翻转
 
-## 6. 链表翻转
+## Tree Depth First Search
 
-## 7. Tree Depth First Search
+## 双堆
 
-## 8. 双堆
+## 子集
 
-## 9. 子集
+## 二分法
 
-## 10. 二分法
+## 前K元素
 
-## 11. 前K元素
+## 多路归并
 
-## 12. 多路归并
+## 拓扑排序
 
-## 13. 拓扑排序
+## 动态规划
 
-## 14. 动态规划
+### 0/1背包
 
-### 14.1 0/1背包
+### 无限背包
 
-### 14.2 无限背包
+### 斐波那契数列
 
-### 14.3 斐波那契数列
+### 回文
 
-### 14.4 回文
-
-### 14.5 最长子字符串
+### 最长子字符串
 
 
