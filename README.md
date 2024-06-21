@@ -9,7 +9,7 @@
 
 【简单】[1176. 健身计划评估](https://leetcode.cn/problems/diet-plan-performance/) 【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem1176/Solution.java)
 
-【中等】[1004. 最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/description/) 【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem1004Solution.java)
+【中等】[1004. 最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/description/) 【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem1004/Solution.java)
 
 ## 前缀和
 【简单】[1732. 找到最高海拔](https://leetcode.cn/problems/find-the-highest-altitude/description/) 【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem1732/Solution.java)
@@ -50,4 +50,6 @@
 
 ### 最长子字符串
 
+## LRU
+【中等】[146.LRU 缓存机制](https://leetcode.cn/problems/lru-cache/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem146/LRUCache.java)
 
