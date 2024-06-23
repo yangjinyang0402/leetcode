@@ -1,6 +1,7 @@
 # leetcode刷题
 
 ## 数组/字符串
+【简单】[1768.交替合并字符串](https://leetcode.cn/problems/merge-strings-alternately/description/) 【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem1768/Solution.java)
 
 ## 双指针
 
