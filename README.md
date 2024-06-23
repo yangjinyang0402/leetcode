@@ -21,6 +21,8 @@
 ## 哈希表/哈希集合
 【简单】[2215.找出两数组的不同](https://leetcode.cn/problems/find-the-difference-of-two-arrays/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem2215/Solution.java)
 
+【简单】[1270.独一无二的出现次数](https://leetcode.cn/problems/unique-number-of-occurrences/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem1270/Solution.java)
+
 ## 快慢指针
 
 ## 区间合并
