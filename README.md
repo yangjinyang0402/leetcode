@@ -18,6 +18,9 @@
 
 【简单】[724.寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/description/) 【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem724/Solution.java)
 
+## 哈希表/哈希集合
+【简单】[2215.找出两数组的不同](https://leetcode.cn/problems/find-the-difference-of-two-arrays/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem2215/Solution.java)
+
 ## 快慢指针
 
 ## 区间合并
