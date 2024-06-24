@@ -26,13 +26,21 @@
 
 【简单】[1270.独一无二的出现次数](https://leetcode.cn/problems/unique-number-of-occurrences/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem1270/Solution.java)
 
+## 栈
+
+## 队列
+【简单】[933.最近的请求次数](https://leetcode.cn/problems/number-of-recent-calls/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem933/RecentCounter.java)
+### LRU
+【中等】[146.LRU 缓存机制](https://leetcode.cn/problems/lru-cache/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem146/LRUCache.java)
+
+## 链表
+### 链表翻转
+
 ## 快慢指针
 
 ## 区间合并
 
 ## 循环排序
-
-## 链表翻转
 
 ## Tree Depth First Search
 
@@ -59,7 +67,3 @@
 ### 回文
 
 ### 最长子字符串
-
-## LRU
-【中等】[146.LRU 缓存机制](https://leetcode.cn/problems/lru-cache/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem146/LRUCache.java)
-
