@@ -30,6 +30,9 @@
 
 ## 队列
 【简单】[933.最近的请求次数](https://leetcode.cn/problems/number-of-recent-calls/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem933/RecentCounter.java)
+
+【中等】[649.Dota2参议院](https://leetcode.cn/problems/dota2-senate/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem649/Solution.java)]
+
 ### LRU
 【中等】[146.LRU 缓存机制](https://leetcode.cn/problems/lru-cache/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem146/LRUCache.java)
 
