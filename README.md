@@ -28,6 +28,8 @@
 
 【中等】[1657.确定两个字符串是否接近](https://leetcode.cn/problems/determine-if-two-strings-are-close/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem1657/Solution.java)
 
+【中等】[2352.相等行列对](https://leetcode.cn/problems/equal-row-and-column-pairs/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem2352/Solution.java)
+
 ## 栈
 
 ## 队列
