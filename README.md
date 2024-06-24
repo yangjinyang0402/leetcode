@@ -3,6 +3,8 @@
 ## 数组/字符串
 【简单】[1768.交替合并字符串](https://leetcode.cn/problems/merge-strings-alternately/description/) 【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem1768/Solution.java)
 
+【简单】[520.检测大写字母](https://leetcode.cn/problems/detect-capital/description/) 【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem520/Solution.java)
+
 ## 双指针
 
 ## 滑动窗口
