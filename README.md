@@ -31,6 +31,8 @@
 【中等】[2352.相等行列对](https://leetcode.cn/problems/equal-row-and-column-pairs/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem2352/Solution.java)
 
 ## 栈
+### 单调栈
+【简单】[496.下一个更大元素 I](https://leetcode.cn/problems/next-greater-element-i/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem496/Solution.java)
 
 ## 队列
 【简单】[933.最近的请求次数](https://leetcode.cn/problems/number-of-recent-calls/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem933/RecentCounter.java)
