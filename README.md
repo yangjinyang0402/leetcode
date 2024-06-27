@@ -31,6 +31,8 @@
 【中等】[2352.相等行列对](https://leetcode.cn/problems/equal-row-and-column-pairs/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem2352/Solution.java)
 
 ## 栈
+【中等】[735.小行星碰撞](https://leetcode.cn/problems/asteroid-collision/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem735/Solution.java)
+
 ### 单调栈
 【简单】[496.下一个更大元素 I](https://leetcode.cn/problems/next-greater-element-i/description/)【实现】[代码](https://github.com/yangjinyang0402/leetcode/blob/master/src/problem496/Solution.java)
 
